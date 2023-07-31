@@ -17,6 +17,10 @@ code {
     monospace;
 }
 
-.px-4 {
-  cursor: none;
+body::-webkit-scrollbar {
+  width: 0.5em; /* Change this value as per your preference */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: transparent;
 }
