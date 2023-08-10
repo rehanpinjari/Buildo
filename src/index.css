@@ -11,16 +11,3 @@ body {
 body::-webkit-scrollbar{
   display: none;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-body::-webkit-scrollbar {
-  width: 0.5em; /* Change this value as per your preference */
-}
-
-body::-webkit-scrollbar-thumb {
-  background-color: transparent;
-}
